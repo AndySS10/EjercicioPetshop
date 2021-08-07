@@ -194,9 +194,9 @@ header{
     height: 2vw;
     margin-top: 1vw;
     border-radius: 12px;
-    padding-top: 0.7vw;
     padding-left: 1vw;
     font-size: 0.5vw;
+    border: none;
 }
 .botones{
     width: 25%;
@@ -213,10 +213,10 @@ header{
     color: white;
     border-radius: 12px;
     text-align: center;
-    padding-top: 0.5vw;
     margin-right: 0.5vw;
     margin-left: 0.5vw;
     font-size: 1vw;
+    border: none;
 }
 .send{
     width: 25%;
@@ -225,10 +225,10 @@ header{
     color: white;
     border-radius: 12px;
     text-align: center;
-    padding-top: 0.5vw;
     margin-right: 0.5vw;
     margin-left: 0.5vw;
     font-size: 1vw;
+    border: none;
 }
 .barrasub{
     width: 100%;
@@ -316,6 +316,7 @@ header{
         order: -1;
     }
     .logomarron{
+        text
         width: 100%;
     }
     .contact{
